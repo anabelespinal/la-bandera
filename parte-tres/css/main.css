@@ -1,0 +1,13 @@
+/* Escribe tu css aqui */
+div {
+	box-sizing: border-box;
+    background-color: #E7EE1D;
+    height: 100px;
+    width: 300px;
+    padding: 15px;
+    margin: 10px;
+    display: inline-block;
+}
+.caja {
+	background-color: red;
+}
